@@ -46,8 +46,8 @@ Generate and save figures of each epochs for eye movements from the first device
 ## PlotData_2.py
 Generate and save figures of each epochs for eye and head movements from the second device
 
-# PlotEpoch.py
+## PlotEpoch.py
 Plot a specific epoch to format the graphs of the first device
 
-# PlotEpoch.py
+## PlotEpoch.py
 Plot a specific epoch to format the graphs of the second device
